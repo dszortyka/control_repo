@@ -1,2 +1,2 @@
 # control_repo
-new edition on ago 
+Puppet files created for learning purposes.
